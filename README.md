@@ -15,8 +15,7 @@ Preview images are shown below. The original high-quality TIFF files are also ke
 
 ![GC-VSS Block](./GC-VSS_Block_preview.png)
 
-Original file:
-- [GC-VSS Block.tif](./GC-VSS%20Block.tif)
+
 
 ## Included Files
 
