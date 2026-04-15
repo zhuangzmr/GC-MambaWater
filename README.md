@@ -2,8 +2,7 @@
 
 ## Overview
 
-This folder is intended for users who want the **model architecture itself** and prefer to write
-their own training code. The training entry script is intentionally **not** included here.
+This folder contains the **GC_MambaWater model** architecture. It is designed for users who wish to implement their own training logic, so the training entry script is intentionally excluded.
 
 ## Architecture Figures
 
