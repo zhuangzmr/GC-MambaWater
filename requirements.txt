@@ -1,7 +1,7 @@
 torch==2.1.1
 torchvision==0.16.1
 timm==0.4.12
-einops
+mamba_ssm==2.2.4
 numpy==1.24.4
 scipy
 fvcore
@@ -12,7 +12,3 @@ triton
 numba
 opencv-python==4.9.0.80
 
-# Install the following platform-specific packages separately if needed:
-# causal_conv1d
-# mamba_ssm
-# mmcv
